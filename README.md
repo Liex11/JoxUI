@@ -1,2 +1,2 @@
-# LifeUI 
+# JOXUI 
 Language: C++/QT
